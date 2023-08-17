@@ -21,6 +21,8 @@ My supervision style: **只烧热灶，不烧冷灶**.
 ---
 
 ### News
+Aug, 2023.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled as *Sequence pre-training-based graph neural network for predicting lncRNA-miRNA associations* is accepted by Briefings in Bioinformatics (IF=9.5).
+
 Aug, 2023.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled as *HMCDA: a novel method based on the heterogeneous graph neural network and metapath for circRNA-disease associations prediction* is accepted by BMC Bioinformatics (IF=3.327).
 
 May, 2023.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled as [*Leveraging Relational Graph Neural Network for Transductive Model Ensemble*](https://dl.acm.org/doi/abs/10.1145/3580305.3599414) is accepted by SIGKDD (CCF A).
