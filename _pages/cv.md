@@ -23,7 +23,12 @@ Work experience
 * Oct 2022- Jan 2023: Research Assistant
   * Mohamed bin Zayed University of Artificial Intelligence
   * Supervisor: Dr. Shangsong Liang
+ 
+Teaching
+======
+* Aug 2023 semester: DS701 Data Mining
 
+   
 Publications
 ======
   <ul>{% for post in site.publications %}
