@@ -24,6 +24,10 @@ Work experience
   * Mohamed bin Zayed University of Artificial Intelligence
   * Supervisor: Dr. Shangsong Liang
 
+Work experience
+======
+* Aug 2023 Semester: DS701 Data Mining
+
 Publications
 ======
   <ul>{% for post in site.publications %}
