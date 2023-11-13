@@ -16,8 +16,6 @@ I am one of the cofounders and main contributors of the [Beta-Recsys](https://be
 
 Graduate studentship, RA, Postdoc positions avaiable at MBZUAI. Highly self-motivated students are always wanted if you want to do research on **Graph Neural Networks**, **Large Language Models** and **AI4Science**. Drop me an email: siwei[dot]liu[at]mbzuai[dot]ac[dot]ae.
 
-My supervision style: **只烧热灶，不烧冷灶**.
-
 ---
 
 ### News
