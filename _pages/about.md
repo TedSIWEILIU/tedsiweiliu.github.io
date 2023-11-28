@@ -19,18 +19,19 @@ Graduate studentship, RA, Postdoc positions avaiable at MBZUAI. Highly self-moti
 ---
 
 ### News
-Aug, 2023.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled as [*Sequence pre-training-based graph neural network for predicting lncRNA-miRNA associations*](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad317/7256790) is accepted by Briefings in Bioinformatics (IF=9.5).
+Nov, 2023.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*A Social-aware Gaussian Pre-trained Model for Effective Cold-start
+Recommendation*](https://arxiv.org/abs/2311.15790) is accepted by Information Processing and Management.
 
-Aug, 2023.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled as [*HMCDA: a novel method based on the heterogeneous graph neural network and metapath for circRNA-disease associations prediction*](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05441-7) is accepted by BMC Bioinformatics (IF=3.327).
+Aug, 2023.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*Sequence pre-training-based graph neural network for predicting lncRNA-miRNA associations*](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad317/7256790) is accepted by Briefings in Bioinformatics (IF=9.5).
 
-May, 2023.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled as [*Leveraging Relational Graph Neural Network for Transductive Model Ensemble*](https://dl.acm.org/doi/abs/10.1145/3580305.3599414) is accepted by SIGKDD (CCF A).
+Aug, 2023.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*HMCDA: a novel method based on the heterogeneous graph neural network and metapath for circRNA-disease associations prediction*](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05441-7) is accepted by BMC Bioinformatics (IF=3.327).
+
+May, 2023.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*Leveraging Relational Graph Neural Network for Transductive Model Ensemble*](https://dl.acm.org/doi/abs/10.1145/3580305.3599414) is accepted by SIGKDD (CCF A).
 
 Nov, 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; I gave a talk on **Graph Neural Networks** at [UN Big Data Hackathon 2022](https://unstats.un.org/bigdata/events/2022/hackathon/). The powerpoint is available [here](./UN_CEB_Talk_sim.pptx).
 
 Oct, 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;I start my Postdoc at **MBZUAI** (Abu Dhabi) with Dr Shangsong Liang.
 
-Oct. 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Our paper entitled as [*Graph neural pre-training for recommendation with side information*](https://dl.acm.org/doi/full/10.1145/3568953) is accepted by ACM TOIS (CCF A).
+Oct. 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Our paper entitled [*Graph neural pre-training for recommendation with side information*](https://dl.acm.org/doi/full/10.1145/3568953) is accepted by ACM TOIS (CCF A).
 
-Mar. 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled as [*An MLP-based Algorithm for Efficient Contrastive Graph Recommendations*](https://dl.acm.org/doi/abs/10.1145/3477495.3531874) is accepted by ACM SIGIR (CCF A).
-
-
+Mar. 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*An MLP-based Algorithm for Efficient Contrastive Graph Recommendations*](https://dl.acm.org/doi/abs/10.1145/3477495.3531874) is accepted by ACM SIGIR (CCF A).
