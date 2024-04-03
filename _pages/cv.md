@@ -16,7 +16,10 @@ Education
 
 Work experience
 ======
-* Jan 2023-Present: Postdoc researcher
+* April 2024- Present: Lecturer/Assistant Professor
+  * University of Aberdeen
+
+* Jan 2023- March 2024: Postdoc researcher
   * Mohamed bin Zayed University of Artificial Intelligence
   * Supervisor: Dr. Shangsong Liang
 
@@ -26,6 +29,7 @@ Work experience
 
 Teaching
 ======
+* April 2024 Semester: Data Mining and Visualization
 * Aug 2023 Semester: DS701 Data Mining
 
 <!--
