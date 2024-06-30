@@ -21,6 +21,12 @@ I am one of the co-founders and main contributors of the [Beta-Recsys](https://b
 ---
 
 ### News
+June, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*Heterogeneous biomedical entity representation
+learning for gene-disease association prediction*] is accepted by Briefings in Bioinformatics.
+
+June, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*BPP: A Platform for Automatic Biochemical Pathway
+Prediction*] is accepted by Briefings in Bioinformatics.
+
 Nov, 2023.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*A Social-aware Gaussian Pre-trained Model for Effective Cold-start
 Recommendation*](https://arxiv.org/abs/2311.15790) is accepted by Information Processing and Management.
 
