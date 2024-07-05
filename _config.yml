@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Glasgow"
+locale                   : "Aberdeen"
 title                    : "Homepage of Siwei"
 title_separator          : "-"
 name                     : &name "Siwei Liu"
-description              : &description "Postdoctoral researcher of MBZUAI"
+description              : &description "Assistant Professor of University of Aberdeen"
 url                      : "https://tedsiweiliu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tedsiweiliu.github.io"
