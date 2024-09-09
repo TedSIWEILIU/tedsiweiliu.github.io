@@ -14,6 +14,7 @@ I am an Assistant Professor at the School of Natural and Computing Science, Univ
 1. LLM Multi-agent Collaboration
 2. GNN for biomedical network interaction (e.g., DNA, RNA, Protein, Diseases, Bacteria)
 3. Multi-modal Single-cell Analysis
+4. Biomedical Image Analysis
 
 
 <!--working with Dr. [Shangsong Liang](https://scholar.google.com/citations?hl=en&user=4uggVcIAAAAJ). In addition, I work with Dr. [Zaiqiao Meng](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en) and we lead the **BioKR2** (Bio Knowledge Representation and Reasoning) Lab. The ultimate goal of **BioKR2** is to inspire bioinformatics research by using meaningful representation learning methods.-->
