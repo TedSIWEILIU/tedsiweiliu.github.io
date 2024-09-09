@@ -12,7 +12,7 @@ Our team, led by Dr Liang works closely with Prof. [Eilam Gross](https://scholar
 
 I am an Assistant Professor at the School of Natural and Computing Science, University of Aberdeen, UK. Before this position, I was a Postdoctoral researcher at MBZUAI. Currently, I work on the following topics with my collaborators all over the world:
 1. LLM Multi-agent Collaboration
-2. GNN for biomedical network interaction (e.g., DNA, RNA, Protein, Bacteria)
+2. GNN for biomedical network interaction (e.g., DNA, RNA, Protein, Diseases, Bacteria)
 3. Multi-modal Single-cell Analysis
 
 
