@@ -29,6 +29,7 @@ Work experience
 
 Teaching
 ======
+* Sept 2024 Semester: Natural Language Processing
 * April 2024 Semester: Data Mining and Visualization
 * Aug 2023 Semester: DS701 Data Mining
 
