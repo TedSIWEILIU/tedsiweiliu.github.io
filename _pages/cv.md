@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computing Science, University of Glasgow, 2022
-* B.S. in Electrical & Electronics Engineering, University of Glasgow, 2018
+* Ph.D in Computing Science, University of Glasgow, 2018-2022
+* B.S. in Electrical & Electronics Engineering, University of Glasgow, 2014-2018
 
 Work experience
 ======
