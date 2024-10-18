@@ -28,6 +28,9 @@ I am one of the co-founders and main contributors of the [Beta-Recsys](https://b
 ---
 
 ### News
+Oct, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*Active Learning for Multi-Class Drug-Drug
+Interactions Prediction*] is accepted by IEEE, International Conference on Bioinformatics and Biomedicine.
+
 June, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*Heterogeneous biomedical entity representation
 learning for gene-disease association prediction*](https://academic.oup.com/bib/article/25/5/bbae380/7735275) is accepted by Briefings in Bioinformatics.
 
