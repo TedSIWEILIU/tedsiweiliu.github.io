@@ -28,6 +28,8 @@ I am one of the co-founders and main contributors of the [Beta-Recsys](https://b
 ---
 
 ### News
+Oct, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*PASCL: supervised contrastive learning with perturbative augmentation for particle decay reconstruction*](https://iopscience.iop.org/article/10.1088/2632-2153/ad8060/meta) is accepted by Machine Learning: Science and Technology.
+
 Oct, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*Active Learning for Multi-Class Drug-Drug
 Interactions Prediction*] is accepted by IEEE, International Conference on Bioinformatics and Biomedicine.
 
