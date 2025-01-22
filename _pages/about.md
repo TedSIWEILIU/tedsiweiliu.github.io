@@ -28,13 +28,15 @@ I am one of the co-founders and main contributors of the [Beta-Recsys](https://b
 ---
 
 ### News
-Oct, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*PASCL: supervised contrastive learning with perturbative augmentation for particle decay reconstruction*](https://iopscience.iop.org/article/10.1088/2632-2153/ad8060/meta) is accepted by Machine Learning: Science and Technology.
-
 Oct, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*Active Learning for Multi-Class Drug-Drug
 Interactions Prediction*](https://ieeexplore.ieee.org/abstract/document/10822197) is accepted by IEEE, International Conference on Bioinformatics and Biomedicine.
 
-June, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*Heterogeneous biomedical entity representation
-learning for gene-disease association prediction*](https://academic.oup.com/bib/article/25/5/bbae380/7735275) is accepted by Briefings in Bioinformatics.
+Oct, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*PASCL: supervised contrastive learning with perturbative augmentation for particle decay reconstruction*](https://iopscience.iop.org/article/10.1088/2632-2153/ad8060/meta) is accepted by Machine Learning: Science and Technology.
+
+Oct, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*Enhancing Graph Neural Networks via Memorized Global Information
+*](https://dl.acm.org/doi/abs/10.1145/3689430) is accepted by ACM Transactions on the Web.
+
+Aug, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*Heterogeneous biomedical entity representation learning for gene–disease association prediction*](https://academic.oup.com/bib/article/25/5/bbae380/7735275) is accepted by Briefings in Bioinformatics.
 
 June, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*BPP: A Platform for Automatic Biochemical Pathway
 Prediction*](https://academic.oup.com/bib/article/25/5/bbae355/7724465) is accepted by Briefings in Bioinformatics.
