@@ -28,6 +28,8 @@ I am one of the co-founders and main contributors of the [Beta-Recsys](https://b
 ---
 
 ### News
+June, 2025.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation*](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010413) is accepted by Expert Systems with Applications.
+
 Oct, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*Active Learning for Multi-Class Drug-Drug
 Interactions Prediction*](https://ieeexplore.ieee.org/abstract/document/10822197) is accepted by IEEE, International Conference on Bioinformatics and Biomedicine.
 
