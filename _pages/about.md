@@ -28,6 +28,13 @@ I am one of the co-founders and main contributors of the [Beta-Recsys](https://b
 ---
 
 ### News
+Check out our open-source project [*EvoAgentX*](https://github.com/EvoAgentX/EvoAgentX).
+
+Sept, 2025.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*EvoAgentX: An automated framework for evolving agentic workflows*](https://arxiv.org/abs/2507.03616) is accepted as a Demo Paper by EMNLP 2025.
+
+Aug, 2025.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; We have established the latest survey for self-evolving agent on arxiv: [*A comprehensive survey of self-evolving ai agents: A new paradigm bridging foundation models and lifelong agentic systems
+*](https://arxiv.org/abs/2508.07407).
+
 June, 2025.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation*](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010413) is accepted by Expert Systems with Applications.
 
 Oct, 2024.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled [*Active Learning for Multi-Class Drug-Drug
